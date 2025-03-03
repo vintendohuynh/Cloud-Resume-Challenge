@@ -15,8 +15,12 @@ body {
     border-radius: 10px;
 }
 
-h1, h2, h3 {
+h1, h2 {
     color: #0073e6;
+}
+
+h3 {
+    color: #2C3E50;
 }
 
 header {
